@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# https://readme.so/  I have to check it out
+
+# avalaible REACT_APP_API_KEY for .env
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
