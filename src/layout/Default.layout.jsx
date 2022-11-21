@@ -18,10 +18,3 @@ export default DefaultLayoutHoc;
 
 
 
-// const DefaultLayoutHoc = () => {
-//     return <div>DefaultLayoutHoc </div>
-
-
-// }
-
-// export default DefaultLayoutHoc;

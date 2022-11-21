@@ -74,12 +74,3 @@ const MovieNavbar = () => {
 
 export default MovieNavbar;
 
-
-// import React from 'react'
-
-// const MovieNavbar = () => {
-//     return <div>MovieNavbar</div>
-
-// }
-
-// export default MovieNavbar;

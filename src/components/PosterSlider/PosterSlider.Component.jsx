@@ -71,10 +71,4 @@ export default PosterSlider;
 
 
 
-// import React from 'react'
 
-// export const PosterSlider = () => {
-//     return <div>PosterSlider</div>
-// }
-
-// export default PosterSlider;

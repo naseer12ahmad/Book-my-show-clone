@@ -16,11 +16,4 @@ const MovieLayoutHoc =
 export default MovieLayoutHoc;
 
 
-// import React from 'react'
 
-// const MovieLayoutHOC = () => {
-//     return <div>MovieLayoutHOC</div>
-
-// }
-
-// export default MovieLayoutHOC;
